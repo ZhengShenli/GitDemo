@@ -3,12 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GitDemo.iml" filepath="$PROJECT_DIR$/.idea/GitDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-double-1/demo-double-1.iml" filepath="$PROJECT_DIR$/demo-double-1/demo-double-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-module-1/demo-module-1.iml" filepath="$PROJECT_DIR$/demo-module-1/demo-module-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-module-2/demo-module-2.iml" filepath="$PROJECT_DIR$/demo-module-2/demo-module-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-module-3/demo-module-3.iml" filepath="$PROJECT_DIR$/demo-module-3/demo-module-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-module-4/demo-module-4.iml" filepath="$PROJECT_DIR$/demo-module-4/demo-module-4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-module-5/demo-module-5.iml" filepath="$PROJECT_DIR$/demo-module-5/demo-module-5.iml" />
     </modules>
   </component>
 </project>
